@@ -1,0 +1,5 @@
+1)Define cyber security.
+2)what is big data analytics?
+3)Explain iot architecture.
+4)Describe Hadoop framework.
+5)what are the different types of analytics tool?
